@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://i.imgur.com/e9zY4S6.jpg");
+    
+    width:100%;  
+    height:100%;
+}
+
+table{
+    
+    border-bottom-color: #FF6347;
+    border-collapse:collapse;
+    width: 100%;
+    text-align: center;
+    font-family: "Copperplate Gothic Light";
+    font-size: 25px;
+}
+
+td, th {
+    border: 7px solid #FFFF00;
+    padding: 15px;
+    
+}

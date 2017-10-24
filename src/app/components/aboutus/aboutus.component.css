@@ -1,0 +1,20 @@
+body{
+    background-image: "https://imgur.com/ZsTE2qe.jpg";
+}
+div.container {
+    width: 100%;
+   
+}
+.name{
+   margin-left: 170px;
+    padding: 1em;
+    overflow: hidden;
+    font-family: "Champagne & Limousines";
+    font-size: 80px;
+    text-shadow: 0 0 8px #F5DEB3;
+    color: #6A5ACD; 
+}
+
+img {
+    border-radius: 18px;
+}
